@@ -1,7 +1,7 @@
 <h2> 👋 Hi, I’m Hyerin! (@hyerinmiakim) </h2>
 👀 <b> Technical Stack:</b> C++, Java, javascript
 
-🎓 <b> Major:</b> Embedded System Engineering of INU
+🎓 <b> Major:</b> Embedded System Engineering
 
 🌱 <b>Currently learning:</b> backend developments using Node.js, study Algorithm w/ C++
 
