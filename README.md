@@ -1,13 +1,15 @@
-<h2> 👋 Hi, I’m Hyerin! (@hyerinmiakim) </h2>
+## 👋 Hi, I’m Hyerin! (@hyerinmiakim) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyerinmiakim%2Fhyerinmiakim&count_bg=%23688FFF&title_bg=%23000070&icon=iconify.svg&icon_color=%23F5F5F5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+
 👀 <b> Technical Stack:</b> C++, Java, javascript
 
-🎓 <b> Major:</b> Embedded System Engineering
+🎓  Major:</b> Embedded System Engineering
 
-🌱 <b>Currently learning:</b> backend developments using Node.js, study Algorithm w/ C++
+🌱  Currently learning:</b> backend developments using Node.js, study Algorithm w/ C++
 
-📫 <b>Contact:</b> hlkim266@gmail.com
+📫  Contact:</b> hlkim266@gmail.com
 
-🎨 <b>Blog:</b> https://hyerindipity.tistory.com/
+🎨  Blog:</b> https://hyerindipity.tistory.com/
 
 <!---
 hyerinmiakim/hyerinmiakim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
