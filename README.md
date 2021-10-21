@@ -1,6 +1,10 @@
 ## 👋 Hi, I’m Hyerin! (@hyerinmiakim) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyerinmiakim%2Fhyerinmiakim&count_bg=%23688FFF&title_bg=%23000070&icon=iconify.svg&icon_color=%23F5F5F5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
+![Hyerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyerinmiakim&show_icons=true&theme=nightowl) 
+
+
+
 👀 <b> Technical Stack:</b> C++, Java, javascript
 
 🎓  Major:</b> Embedded System Engineering
